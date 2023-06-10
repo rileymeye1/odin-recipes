@@ -1,0 +1,56 @@
+* {
+    background-color: gray;
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 48px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: square;
+    background: #cce5ff;
+}
+
+ul li {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: square;
+    background: #cce5ff;
+}
+
+ol {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f05151;
+}
+
+ol li {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f05151;
+}
